@@ -1,1 +1,3 @@
-# first_to_do_list
+# Simple To Do List
+
+This project lets user create, delete and mark tasks complete
