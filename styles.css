@@ -1,0 +1,45 @@
+li {
+    list-style-type: none;
+}
+
+ul li.checked {
+    text-decoration: line-through;
+    color: gray;
+
+}
+
+.remove {
+    position: absolute;
+    right: 60%;    
+}
+.remove:hover {
+    background-color: red;
+    color: white;
+
+
+}
+
+ul li label{
+    position: relative;
+    padding: 12px, 8px, 12px, 40px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.input-note {
+    margin: -25px 25px;
+    color: gray;
+    width: 30%;
+    height: 40px;
+    
+
+}
+
+
+
+/* ul {
+    margin: 0;
+    padding: 0;
+} */
+
